@@ -1,5 +1,8 @@
 ### Hey Guys 👋, I'm Moiz Arshad!
 
+Hey Guys 👋, I'm Moiz Arshad, An undergradute Software Engineering student 🙍🏽‍♂️ at Hamdard University having skills and expertise in Python and Flutter 💫.
+⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
+
 <!--
 **MoizArshad10/MoizArshad10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
